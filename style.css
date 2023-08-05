@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-image: url("SOCCER-SAUDI-ITT-ANA-REPORT-15_1674874875893_1674874875893_1674875259196_1674875259196.webp");
+    background-size: cover;
+}
+li{
+    text-align: left;
+}
+h4{
+    text-align:left;
+}
+.image{
+    float:left;
+}
